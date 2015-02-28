@@ -1,0 +1,10 @@
+{
+  "moodle-filter_mathslate-loader": {
+    "requires": [
+        "escape",
+        "moodle-tinymce_mathslate-mathjaxeditor",
+        "moodle-tinymce_mathslate-snippeteditor",
+        "moodle-tinymce_mathslate-editor"
+    ]
+  }
+}
