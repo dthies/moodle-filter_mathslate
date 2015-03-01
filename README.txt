@@ -2,8 +2,8 @@ filter_mathslate
 =================
 
 Mathslate is a graphical tool for constructing mathematics within
-Moodle. This plugin adds the tool to various question types of
-other imputs.  Install the tinymce_mathslate plugin and install this
+Moodle. This plugin adds the tool to various question types or
+other inputs.  Install the tinymce_mathslate plugin and install this
 directory as a subdirectory of the Moodle directory filter with the name
 mathslate. Then visit the administrators notification page to install
 the plugin to the database and adjust the settings.
